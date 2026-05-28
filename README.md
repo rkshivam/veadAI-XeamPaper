@@ -3,8 +3,8 @@
 An intelligent full-stack platform that allows teachers to generate structured question papers from text or topics using AI. Built during the VedaAI Full-Stack Engineering Assignment.
 
 ### 🔗 Project Links
-- **Live Demo (Frontend):** [Update ASAP]
-- **Backend API:** [Update ASAP]
+- **Live Demo (Frontend):** https://vead-ai-xeam-paper.vercel.app/  (404 - Not FOUND SOORY)
+- **Backend API:** https://veadai-xeampaper.onrender.com
 
 ---
 
