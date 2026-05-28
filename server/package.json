@@ -4,6 +4,7 @@
   "main": "index.ts",
   "scripts": {
     "dev": "ts-node index.ts",
+    "build": "tsc",
     "start": "ts-node index.ts"
   },
   "keywords": [],
