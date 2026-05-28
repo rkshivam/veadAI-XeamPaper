@@ -5,7 +5,7 @@ An intelligent full-stack platform that allows teachers to generate structured q
 <!-- <video src="Media/VedaAI%20Video.mp4" controls width="100%"></video> -->
 <!-- CLICKABLE VIDEO THUMBNAIL (Bypasses GitHub Proxy Errors) -->
 <a href="https://drive.google.com/file/d/1XSKEkFzPYKvbAsqqiRTLSSKLbgGsy_lM/view?usp=drive_link" target="_blank">
-  <img src="Media/QUESTION%20PAPER.png" alt="Watch VedaAI Demo Video" width="100%" />
+  <img src="Media/Watch_Video.png" alt="Watch VedaAI Demo Video" width="100%" />
 </a>
 
 Click the image above to watch the full project presentation video on Google Drive!
