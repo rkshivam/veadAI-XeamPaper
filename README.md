@@ -2,7 +2,7 @@
 
 An intelligent full-stack platform that allows teachers to generate structured question papers from text or topics using AI. Built during the VedaAI Full-Stack Engineering Assignment.
 
-<video src="Media/VedaAI Video.mp4" controls width="100%"></video>
+<video src="Media/VedaAI%20Video.mp4" controls width="100%"></video>
 
 ### 🔗 Project Links
 - **Live Demo (Frontend):** https://vead-ai-xeam-paper.vercel.app/  (404 - Not FOUND SOORY)
@@ -21,6 +21,22 @@ An intelligent full-stack platform that allows teachers to generate structured q
 | **Database** | MongoDB (Data Persistence) |
 | **Queue/Jobs** | Redis + BullMQ (For background AI generation) |
 | **AI Engine** | Google Gemini API / Claude / OpenAI |
+
+---
+## 📸 Project Screenshots
+
+### AI Generation Workflow
+![Cursor Integration](Media/Cursor.png)
+
+### Database Persistence
+![MongoDB Working](Media/Database%20Working%20MONGO%20DB%20KI%20JAY.png)
+
+### Production & Deployments
+![Backend Logs](Media/Backend%20Render.png)
+![Vercel Deployments](Media/vercel%20deployments.png)
+
+### Structured Exam Output
+![Generated Question Paper](Media/QUESTION%20PAPER.png)
 
 ---
 
